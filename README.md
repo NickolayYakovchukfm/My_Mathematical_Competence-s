@@ -17,7 +17,7 @@ All grades is discripted by 5-grade system.
 
 **Machine Learning** - 5 (Faculty of Computer Science HSE)
 
-**Differential Equation** - 4 (Mathematical Faculty of HSE)
+**Differential Equations** - 4 (Mathematical Faculty of HSE)
 
 **Functional Analysis** - 5 (Mathematical Faculty of HSE)
 
